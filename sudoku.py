@@ -6,7 +6,7 @@
 # Imports copy for deep copy and shallow copy which creates bindings between a target and an object (copies of objects)
 import copy
 
-# Board number 1
+# Board number 1 (array)
 board = [
     ".........",
     "5.3.67...",
@@ -19,7 +19,7 @@ board = [
     "...75.8.6"
 ]
 
-# Board number 2
+# Board number 2 (array)
 # board = [
 #     "6..874.1.",
 #     "..9.36...",
